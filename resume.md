@@ -1,10 +1,6 @@
-# Resume
+## Anoop Rajendra
 
-# Anoop Rajendra
-================
-------------------------    -------- ------------
-anoop.rajendra@gmail.com    @anoop_r 312.363.8148
-------------------------    -------- ------------
+| anoop.rajendra@gmail.com | @anoop_r | 312.363.8148|
 
 ## Summary
 ----------
