@@ -1,6 +1,10 @@
 ## Anoop Rajendra
 
-| anoop.rajendra@gmail.com | @anoop_r | 312.363.8148|
+[anoop.rajendra@gmail.com](mailto:anoop.rajendra@gmail.com)
+
+[@anoop_r](https://twitter.com/anoop_r/)
+
+[619.630.5264](tel:6196305264)
 
 ## Summary
 
