@@ -14,9 +14,9 @@ resume.pdf:
 		--latex-engine=xelatex
 
 .PHONY: resume.html
-resume.html:
+resume.html: resume.pdf
 	cat $(MDFILES) | pandoc -o resume.html
 
 .PHONY: clean
 clean:
-	rm -rf resume.pdf
+	rm -rf resume.pdf resume.html
