@@ -8,6 +8,7 @@ addons:
 install:
   - sudo apt-get -y install pandoc
         texlive-base lmodern 
+        texlive-plain-generic
         texlive-xetex
         texlive-luatex
         texlive-latex-extra
