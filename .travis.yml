@@ -8,7 +8,6 @@ addons:
 install:
   - sudo apt-get -y install pandoc
         texlive-base lmodern 
-        texlive-plain-generic
         texlive-xetex
         texlive-luatex
         texlive-latex-extra
@@ -26,5 +25,5 @@ deploy:
   on:
     branch: pages
   target_branch: master
-  local_dir: pages_dir
+  local_dir: pages
 
