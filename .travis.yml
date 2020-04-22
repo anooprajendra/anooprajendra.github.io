@@ -1,8 +1,18 @@
-before_install:
+dist: bionic
+language: generic
+
+addons:
+  apt:
+    update: true
+
+install:
   - sudo apt-get -y install pandoc
         texlive-latex-extra
         texlive-latex-recommended
         texlive-xetex
+
+script:
+        - make build install
 
 deploy:
   provider: pages
