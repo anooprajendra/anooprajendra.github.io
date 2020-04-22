@@ -11,6 +11,7 @@ install:
         texlive-latex-extra
         texlive-latex-recommended
         texlive-xetex
+        lmodern
 
 script:
         - make build install
