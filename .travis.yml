@@ -9,7 +9,7 @@ install:
   - sudo apt-get -y install pandoc
         texlive-latex-extra
         texlive-latex-recommended
-        texlive-xetex
+        texlive-xetex lmodern
 
 script:
         - make build install
