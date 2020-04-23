@@ -15,7 +15,7 @@ install:
         texlive-fonts-recommended
   - nvm install v12.16.1
   - git submodule update
-  - cd gatsby-starter-hello-world && npm install gatsby gatsby-cli react react-dom
+  - ( cd gatsby-starter-hello-world && npm install gatsby gatsby-cli react react-dom )
 
 script:
         - make build install
