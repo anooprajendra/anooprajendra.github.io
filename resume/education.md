@@ -1,4 +1,4 @@
-### Education
+## Education
 
 **MS, Computer Science and Engineering** \
 *UT Arlington &middot; Arlington,TX &middot; 08/2003 - 12/2005*
