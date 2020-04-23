@@ -14,7 +14,7 @@ install:
         texlive-latex-recommended
         texlive-fonts-recommended
   - nvm install v12.16.1
-  - nvm install gatsby-cli
+  - npm install -g gatsby-cli
   - git submodule update
 
 script:
