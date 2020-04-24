@@ -3,7 +3,7 @@
 
 *Senior Software Developer &middot; 10/2011 - 10/2015 &middot; San Diego,CA*
 
-* Core developer on Stacki - Open Source Cluster management tool
+* Core developer on [Stacki](https://stacki.org/) - Open Source Cluster management tool
 * Core developer on Stacki Enterprise (the commercial version of Stacki)
 * Provide installation and support services, software customization, and \
   support for new, and existing customers

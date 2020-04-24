@@ -4,7 +4,7 @@
 *UT Arlington &middot; Arlington,TX &middot; 08/2003 - 12/2005*
 
 Area of interest - Clusters and Grid computing \
-Thesis - “Integration of the SAM-Grid Infrastructure to the D-Zero Data Reprocessing Effort” \
+Thesis - [“Integration of the SAM-Grid Infrastructure to the D-Zero Data Reprocessing Effort”](https://www-d0.fnal.gov/computing/grid/papers/Thesis-A.Rajendra.pdf) \
 GPA - 3.7
 
 **BE, Computer Science and Engineering** \

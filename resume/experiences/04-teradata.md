@@ -1,7 +1,7 @@
 ### Teradata
 *Senior Engineering Manager &middot; 07/2017 - Present &middot; San Diego*
 
-Joined Teradata as part of Teradata's acquisition of StackIQ
+Joined Teradata as part of [Teradata's acquisition of StackIQ](https://www.teradata.com/Press-Releases/2017/Teradata-Acquires-San-Diego-based-Start-up)
 
 Responsibilities
 
