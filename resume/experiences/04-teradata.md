@@ -9,7 +9,7 @@ Responsibilities
 - Manage core Stacki framework development
 - Manage SNAPI development - orchestration engine that calls Stacki
 - Work with CI/CD team to build pipelines for software
-  build/test/release/delivery lifecycle
+  build/test/release/delivery life cycle
 - Liaising with external teams to help them adapt their software projects to
   Stacki
 - Support external teams with Stacki deployments
