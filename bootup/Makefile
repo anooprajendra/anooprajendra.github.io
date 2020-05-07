@@ -19,7 +19,6 @@ build:
 install: build
 
 clean:
-	rm -rf public
 
 all: build
 
